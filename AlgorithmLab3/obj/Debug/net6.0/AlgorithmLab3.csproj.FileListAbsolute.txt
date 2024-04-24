@@ -1,0 +1,14 @@
+E:\skolprojekt\år_2\mjukvarutestning\labb_2\2.2\AlgorithmLab3\obj\Debug\net6.0\AlgorithmLab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\skolprojekt\år_2\mjukvarutestning\labb_2\2.2\AlgorithmLab3\obj\Debug\net6.0\AlgorithmLab3.AssemblyInfoInputs.cache
+E:\skolprojekt\år_2\mjukvarutestning\labb_2\2.2\AlgorithmLab3\obj\Debug\net6.0\AlgorithmLab3.AssemblyInfo.cs
+E:\skolprojekt\år_2\mjukvarutestning\labb_2\2.2\AlgorithmLab3\obj\Debug\net6.0\AlgorithmLab3.csproj.CoreCompileInputs.cache
+E:\skolprojekt\år_2\mjukvarutestning\labb_2\2.2\AlgorithmLab3\bin\Debug\net6.0\AlgorithmLab3.exe
+E:\skolprojekt\år_2\mjukvarutestning\labb_2\2.2\AlgorithmLab3\bin\Debug\net6.0\AlgorithmLab3.deps.json
+E:\skolprojekt\år_2\mjukvarutestning\labb_2\2.2\AlgorithmLab3\bin\Debug\net6.0\AlgorithmLab3.runtimeconfig.json
+E:\skolprojekt\år_2\mjukvarutestning\labb_2\2.2\AlgorithmLab3\bin\Debug\net6.0\AlgorithmLab3.dll
+E:\skolprojekt\år_2\mjukvarutestning\labb_2\2.2\AlgorithmLab3\bin\Debug\net6.0\AlgorithmLab3.pdb
+E:\skolprojekt\år_2\mjukvarutestning\labb_2\2.2\AlgorithmLab3\obj\Debug\net6.0\AlgorithmLab3.dll
+E:\skolprojekt\år_2\mjukvarutestning\labb_2\2.2\AlgorithmLab3\obj\Debug\net6.0\refint\AlgorithmLab3.dll
+E:\skolprojekt\år_2\mjukvarutestning\labb_2\2.2\AlgorithmLab3\obj\Debug\net6.0\AlgorithmLab3.pdb
+E:\skolprojekt\år_2\mjukvarutestning\labb_2\2.2\AlgorithmLab3\obj\Debug\net6.0\AlgorithmLab3.genruntimeconfig.cache
+E:\skolprojekt\år_2\mjukvarutestning\labb_2\2.2\AlgorithmLab3\obj\Debug\net6.0\ref\AlgorithmLab3.dll
